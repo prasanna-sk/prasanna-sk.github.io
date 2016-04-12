@@ -138,6 +138,10 @@ font: 1.2em/normal Constantia, Palatino, "Palatino Linotype", "Palatino LT STD",
 	-moz-filter	: saturate(0%);
 	-ms-filter	: saturate(0%);
 	-o-filter 	: saturate(0%);	
+	width: 25px;
+padding: 5px;
+border: 0;
+box-shadow: 0;
 }
 
 #mailme {
